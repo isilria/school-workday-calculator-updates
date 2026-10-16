@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0.0",
+  "displayVersion": "2.0",
+  "fileName": "교육공무직 320일 근무 편성 도우미(Ver2.0).exe",
+  "downloadUrl": "https://github.com/isilria/school-workday-calculator-updates/releases/download/v2.0/SchoolWorkdayCalculator-Ver2.0.exe",
+  "sha256": "ce681e9b5c045433e631ddbd40cbe229cbc7f73d45eb3df2f01ccf90a884bdde",
+  "releaseUrl": "https://github.com/isilria/school-workday-calculator-updates/releases/tag/v2.0",
+  "publishedDate": "2026-10-16",
+  "sourceCommit": "ef4d19a3fae733273a8a858d79bb323f9da409f5"
+}

@@ -12,3 +12,5 @@
 [최신 버전 다운로드](https://github.com/isilria/school-workday-calculator-updates/releases/latest)
 
 소스 보관: https://github.com/isilria/school-workday-calculator (비공개)
+
+한글 프로그램 파일명은 배포용 ZIP을 내려받아 압축을 풀면 유지됩니다. ZIP 안 실행 파일명은 `교육공무직 320일 근무 편성 도우미(Ver2.0).exe`입니다.
